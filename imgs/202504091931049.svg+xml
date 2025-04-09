@@ -1,0 +1,498 @@
+  <svg xmlns="http://www.w3.org/2000/svg" version="1.1" data-width="1287" data-height="964" class="icms-hetu-svg" width="1287" height="964">
+   <defs>
+    <linearGradient x1="0%" y1="0%" x2="0%" y2="100%">
+     <stop offset="0%" style="stop-color:#F7F9FF">
+     </stop>
+     <stop offset="100%" style="stop-color:#ffffff">
+     </stop>
+    </linearGradient>
+   </defs>
+   <g transform="translate(0.5,0.5)">
+    <rect x="642" y="1" width="320" height="40" fill="#ffffff" stroke="#595959" pointer-events="none">
+    </rect>
+    <g>
+     <switch>
+      <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+       <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 318px; height: 1px; padding-top: 21px; margin-left: 643px;">
+        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+         <div style="display: inline-block; font-size: 16px; font-family: PingFangSC-Regular; color: #252525; line-height: 1.2; pointer-events: none; white-space: normal; word-wrap: normal; ">
+          
+          
+          
+          工具
+         </div>
+        </div>
+       </div>
+      </foreignObject>
+      <text x="802" y="26" fill="#252525" font-family="PingFangSC-Regular" font-size="16px" text-anchor="middle">
+       
+       
+       
+       [Not supported by viewer]
+      </text>
+     </switch>
+    </g>
+    <rect x="962" y="1" width="320" height="40" fill="#ffffff" stroke="#595959" pointer-events="none">
+    </rect>
+    <g>
+     <switch>
+      <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+       <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 318px; height: 1px; padding-top: 21px; margin-left: 963px;">
+        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+         <div style="display: inline-block; font-size: 16px; font-family: PingFangSC-Regular; color: #252525; line-height: 1.2; pointer-events: none; white-space: normal; word-wrap: normal; ">
+          
+          
+          
+          大模型
+         </div>
+        </div>
+       </div>
+      </foreignObject>
+      <text x="1122" y="26" fill="#252525" font-family="PingFangSC-Regular" font-size="16px" text-anchor="middle">
+       
+       
+       
+       [Not supported by viewer]
+      </text>
+     </switch>
+    </g>
+    <rect x="324" y="1" width="318" height="40" fill="#ffffff" stroke="#595959" pointer-events="none">
+    </rect>
+    <g>
+     <switch>
+      <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+       <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 316px; height: 1px; padding-top: 21px; margin-left: 325px;">
+        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+         <div style="display: inline-block; font-size: 16px; font-family: PingFangSC-Regular; color: #252525; line-height: 1.2; pointer-events: none; white-space: normal; word-wrap: normal; ">
+          
+          
+          
+          程序
+         </div>
+        </div>
+       </div>
+      </foreignObject>
+      <text x="483" y="26" fill="#252525" font-family="PingFangSC-Regular" font-size="16px" text-anchor="middle">
+       
+       
+       
+       [Not supported by viewer]
+      </text>
+     </switch>
+    </g>
+    <path d="M 602 181 L 1122 181 L 1122 312.88" fill="none" stroke="#595959" stroke-miterlimit="10" pointer-events="none">
+    </path>
+    <path d="M 1122 319.88 L 1118.5 312.88 L 1125.5 312.88 Z" fill="#595959" stroke="#595959" stroke-miterlimit="10" pointer-events="none">
+    </path>
+    <path d="M 1122 401 L 1122 432.88" fill="none" stroke="#595959" stroke-miterlimit="10" pointer-events="none">
+    </path>
+    <path d="M 1122 439.88 L 1118.5 432.88 L 1125.5 432.88 Z" fill="#595959" stroke="#595959" stroke-miterlimit="10" pointer-events="none">
+    </path>
+    <g>
+     <switch>
+      <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+       <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 415px; margin-left: 1121px;">
+        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+         <div style="display: inline-block; font-size: 16px; font-family: PingFangSC-Regular; color: #595959; line-height: 1.2; pointer-events: none; background-color: #ffffff; white-space: nowrap; ">
+          
+          
+          
+          是
+         </div>
+        </div>
+       </div>
+      </foreignObject>
+      <text x="1121" y="419" fill="#595959" font-family="PingFangSC-Regular" font-size="16px" text-anchor="middle">
+       
+       
+       
+       [Not supported by viewer]
+      </text>
+     </switch>
+    </g>
+    <path d="M 1237 361 L 1257 361 L 1257 561 L 1122 561 L 1122 712.88" fill="none" stroke="#595959" stroke-miterlimit="10" pointer-events="none">
+    </path>
+    <path d="M 1122 719.88 L 1118.5 712.88 L 1125.5 712.88 Z" fill="#595959" stroke="#595959" stroke-miterlimit="10" pointer-events="none">
+    </path>
+    <g>
+     <switch>
+      <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+       <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 352px; margin-left: 1245px;">
+        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+         <div style="display: inline-block; font-size: 16px; font-family: PingFangSC-Regular; color: #595959; line-height: 1.2; pointer-events: none; background-color: #ffffff; white-space: nowrap; ">
+          
+          
+          
+          否
+         </div>
+        </div>
+       </div>
+      </foreignObject>
+      <text x="1245" y="356" fill="#595959" font-family="PingFangSC-Regular" font-size="16px" text-anchor="middle">
+       
+       
+       
+       [Not supported by viewer]
+      </text>
+     </switch>
+    </g>
+    <path d="M 1122 321 L 1237 361 L 1122 401 L 1007 361 Z" fill="#ebf0ff" stroke="#000000" stroke-miterlimit="10" pointer-events="none">
+    </path>
+    <g>
+     <switch>
+      <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+       <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 228px; height: 1px; padding-top: 361px; margin-left: 1008px;">
+        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+         <div style="display: inline-block; font-size: 16px; font-family: PingFangSC-Regular; color: #252525; line-height: 1.2; pointer-events: none; white-space: normal; word-wrap: normal; ">
+          
+          
+          
+          判断是否需要调用工具
+         </div>
+        </div>
+       </div>
+      </foreignObject>
+      <text x="1122" y="366" fill="#252525" font-family="PingFangSC-Regular" font-size="16px" text-anchor="middle">
+       
+       
+       
+       [Not supported by viewer]
+      </text>
+     </switch>
+    </g>
+    <path d="M 594 281 L 1122 281 L 1122 312.88" fill="none" stroke="#595959" stroke-miterlimit="10" pointer-events="none">
+    </path>
+    <path d="M 1122 319.88 L 1118.5 312.88 L 1125.5 312.88 Z" fill="#595959" stroke="#595959" stroke-miterlimit="10" pointer-events="none">
+    </path>
+    <path d="M 1029.6 463.2 L 482 463.2 L 482 507.88" fill="none" stroke="#595959" stroke-miterlimit="10" pointer-events="none">
+    </path>
+    <path d="M 482 514.88 L 478.5 507.88 L 485.5 507.88 Z" fill="#595959" stroke="#595959" stroke-miterlimit="10" pointer-events="none">
+    </path>
+    <path d="M 1122 761 L 1122 781 L 482 781 L 482 792.88" fill="none" stroke="#595959" stroke-miterlimit="10" pointer-events="none">
+    </path>
+    <path d="M 482 799.88 L 478.5 792.88 L 485.5 792.88 Z" fill="#595959" stroke="#595959" stroke-miterlimit="10" pointer-events="none">
+    </path>
+    <rect x="1002" y="721" width="240" height="40" fill="#ebf0ff" stroke="#000000" pointer-events="none">
+    </rect>
+    <g>
+     <switch>
+      <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+       <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 238px; height: 1px; padding-top: 741px; margin-left: 1003px;">
+        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+         <div style="display: inline-block; font-size: 16px; font-family: PingFangSC-Regular; color: #252525; line-height: 1.2; pointer-events: none; white-space: normal; word-wrap: normal; ">
+          
+          
+          
+          给出回复
+         </div>
+        </div>
+       </div>
+      </foreignObject>
+      <text x="1122" y="746" fill="#252525" font-family="PingFangSC-Regular" font-size="16px" text-anchor="middle">
+       
+       
+       
+       [Not supported by viewer]
+      </text>
+     </switch>
+    </g>
+    <path d="M 362 821 L 160.6 821 L 160.57 872.88" fill="none" stroke="#595959" stroke-miterlimit="10" pointer-events="none">
+    </path>
+    <path d="M 160.57 879.88 L 157.07 872.88 L 164.07 872.88 Z" fill="#595959" stroke="#595959" stroke-miterlimit="10" pointer-events="none">
+    </path>
+    <path d="M 602 538.5 L 802 538.5 L 802 592.88" fill="none" stroke="#595959" stroke-miterlimit="10" pointer-events="none">
+    </path>
+    <path d="M 802 599.88 L 798.5 592.88 L 805.5 592.88 Z" fill="#595959" stroke="#595959" stroke-miterlimit="10" pointer-events="none">
+    </path>
+    <rect x="362" y="516" width="240" height="45" fill="#ebf0ff" stroke="#1266ec" pointer-events="none">
+    </rect>
+    <g>
+     <switch>
+      <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+       <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 238px; height: 1px; padding-top: 539px; margin-left: 363px;">
+        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+         <div style="display: inline-block; font-size: 16px; font-family: PingFangSC-Regular; color: #252525; line-height: 1.2; pointer-events: none; white-space: normal; word-wrap: normal; ">
+          
+          
+          
+          根据工具名称、入参          <br style="font-size: 16px;"/>
+
+
+
+调用工具
+         </div>
+        </div>
+       </div>
+      </foreignObject>
+      <text x="482" y="543" fill="#252525" font-family="PingFangSC-Regular" font-size="16px" text-anchor="middle">
+       
+       
+       
+       [Not supported by viewer]
+      </text>
+     </switch>
+    </g>
+    <path d="M 682 621 L 482 621 L 482 672.88" fill="none" stroke="#595959" stroke-miterlimit="10" pointer-events="none">
+    </path>
+    <path d="M 482 679.88 L 478.5 672.88 L 485.5 672.88 Z" fill="#595959" stroke="#595959" stroke-miterlimit="10" pointer-events="none">
+    </path>
+    <rect x="682" y="601" width="240" height="40" fill="#ebf0ff" stroke="#1266ec" pointer-events="none">
+    </rect>
+    <g>
+     <switch>
+      <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+       <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 238px; height: 1px; padding-top: 621px; margin-left: 683px;">
+        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+         <div style="display: inline-block; font-size: 16px; font-family: PingFangSC-Regular; color: #252525; line-height: 1.2; pointer-events: none; white-space: normal; word-wrap: normal; ">
+          
+          
+          
+          输出工具调用结果
+         </div>
+        </div>
+       </div>
+      </foreignObject>
+      <text x="802" y="626" fill="#252525" font-family="PingFangSC-Regular" font-size="16px" text-anchor="middle">
+       
+       
+       
+       [Not supported by viewer]
+      </text>
+     </switch>
+    </g>
+    <path d="M 642 961 L 642 41" fill="none" stroke="#595959" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="none">
+    </path>
+    <path d="M 962 961 L 962 41" fill="none" stroke="#595959" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="none">
+    </path>
+    <path d="M 602 701 L 1122 701 L 1122 712.88" fill="none" stroke="#595959" stroke-miterlimit="10" pointer-events="none">
+    </path>
+    <path d="M 1122 719.88 L 1118.5 712.88 L 1125.5 712.88 Z" fill="#595959" stroke="#595959" stroke-miterlimit="10" pointer-events="none">
+    </path>
+    <rect x="362" y="681" width="240" height="40" fill="#ebf0ff" stroke="#1266ec" pointer-events="none">
+    </rect>
+    <g>
+     <switch>
+      <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+       <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 238px; height: 1px; padding-top: 701px; margin-left: 363px;">
+        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+         <div style="display: inline-block; font-size: 16px; font-family: PingFangSC-Regular; color: #252525; line-height: 1.2; pointer-events: none; white-space: normal; word-wrap: normal; ">
+          
+          
+          
+          根据工具结果、用户问题          <br style="font-size: 16px;"/>
+
+
+
+调用大模型
+         </div>
+        </div>
+       </div>
+      </foreignObject>
+      <text x="482" y="706" fill="#252525" font-family="PingFangSC-Regular" font-size="16px" text-anchor="middle">
+       
+       
+       
+       [Not supported by viewer]
+      </text>
+     </switch>
+    </g>
+    <path d="M 362 181 L 362 183.03" fill="none" stroke="#595959" stroke-miterlimit="10" pointer-events="none">
+    </path>
+    <path d="M 362 181.03 L 363 183.03 L 361 183.03 Z" fill="#595959" stroke="#595959" stroke-miterlimit="10" pointer-events="none">
+    </path>
+    <path d="M 322 961 L 324 41" fill="none" stroke="#595959" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="none">
+    </path>
+    <path d="M 1283 961 L 1283 41" fill="none" stroke="#595959" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="none">
+    </path>
+    <rect x="0.57" y="1" width="323.43" height="40" fill="#ffffff" stroke="#595959" pointer-events="none">
+    </rect>
+    <g>
+     <switch>
+      <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+       <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 321px; height: 1px; padding-top: 21px; margin-left: 2px;">
+        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+         <div style="display: inline-block; font-size: 16px; font-family: PingFangSC-Regular; color: #252525; line-height: 1.2; pointer-events: none; white-space: normal; word-wrap: normal; ">
+          
+          
+          
+          用户
+         </div>
+        </div>
+       </div>
+      </foreignObject>
+      <text x="162" y="26" fill="#252525" font-family="PingFangSC-Regular" font-size="16px" text-anchor="middle">
+       
+       
+       
+       [Not supported by viewer]
+      </text>
+     </switch>
+    </g>
+    <path d="M 2 961 L 1.57 41" fill="none" stroke="#595959" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="none">
+    </path>
+    <path d="M 280.57 101 L 482 101 L 482 152.88" fill="none" stroke="#595959" stroke-miterlimit="10" pointer-events="none">
+    </path>
+    <path d="M 482 159.88 L 478.5 152.88 L 485.5 152.88 Z" fill="#595959" stroke="#595959" stroke-miterlimit="10" pointer-events="none">
+    </path>
+    <rect x="40.57" y="81" width="240" height="40" rx="20" ry="20" fill="url(#mx-gradient-f7f9ff-1-ffffff-1-s-0)" stroke="#0033cc" pointer-events="none">
+    </rect>
+    <g>
+     <switch>
+      <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+       <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 238px; height: 1px; padding-top: 101px; margin-left: 42px;">
+        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+         <div style="display: inline-block; font-size: 16px; font-family: PingFangSC-Regular; color: #252525; line-height: 1.2; pointer-events: none; white-space: normal; word-wrap: normal; ">
+          
+          
+          
+          用户提问
+         </div>
+        </div>
+       </div>
+      </foreignObject>
+      <text x="161" y="106" fill="#252525" font-family="PingFangSC-Regular" font-size="16px" text-anchor="middle">
+       
+       
+       
+       [Not supported by viewer]
+      </text>
+     </switch>
+    </g>
+    <rect x="40.57" y="881" width="240" height="40" rx="20" ry="20" fill="#f7f9ff" stroke="#0033cc" pointer-events="none">
+    </rect>
+    <g>
+     <switch>
+      <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+       <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 238px; height: 1px; padding-top: 901px; margin-left: 42px;">
+        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+         <div style="display: inline-block; font-size: 16px; font-family: PingFangSC-Regular; color: #252525; line-height: 1.2; pointer-events: none; white-space: normal; word-wrap: normal; ">
+          
+          
+          
+          大模型回复
+         </div>
+        </div>
+       </div>
+      </foreignObject>
+      <text x="161" y="906" fill="#252525" font-family="PingFangSC-Regular" font-size="16px" text-anchor="middle">
+       
+       
+       
+       [Not supported by viewer]
+      </text>
+     </switch>
+    </g>
+    <rect x="362" y="801" width="240" height="40" fill="#ebf0ff" stroke="#1266ec" pointer-events="none">
+    </rect>
+    <g>
+     <switch>
+      <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+       <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 238px; height: 1px; padding-top: 821px; margin-left: 363px;">
+        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+         <div style="display: inline-block; font-size: 16px; font-family: PingFangSC-Regular; color: #252525; line-height: 1.2; pointer-events: none; white-space: normal; word-wrap: normal; ">
+          
+          
+          
+          返回大模型回复
+         </div>
+        </div>
+       </div>
+      </foreignObject>
+      <text x="482" y="826" fill="#252525" font-family="PingFangSC-Regular" font-size="16px" text-anchor="middle">
+       
+       
+       
+       [Not supported by viewer]
+      </text>
+     </switch>
+    </g>
+    <rect x="362" y="161" width="240" height="45" fill="#ebf0ff" stroke="#1266ec" pointer-events="none">
+    </rect>
+    <g>
+     <switch>
+      <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+       <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 238px; height: 1px; padding-top: 184px; margin-left: 363px;">
+        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+         <div style="display: inline-block; font-size: 16px; font-family: PingFangSC-Regular; color: #252525; line-height: 1.2; pointer-events: none; white-space: normal; word-wrap: normal; ">
+          
+          
+          
+          根据用户问题          <br style="font-size: 16px;"/>
+
+
+
+调用大模型
+         </div>
+        </div>
+       </div>
+      </foreignObject>
+      <text x="482" y="188" fill="#252525" font-family="PingFangSC-Regular" font-size="16px" text-anchor="middle">
+       
+       
+       
+       [Not supported by viewer]
+      </text>
+     </switch>
+    </g>
+    <path d="M 364 321 L 384 241 L 604 241 L 584 321 Z" fill="#ebf0ff" stroke="#000000" stroke-miterlimit="10" pointer-events="none">
+    </path>
+    <g>
+     <switch>
+      <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+       <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 238px; height: 1px; padding-top: 281px; margin-left: 365px;">
+        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+         <div style="display: inline-block; font-size: 16px; font-family: PingFangSC-Regular; color: #252525; line-height: 1.2; pointer-events: none; white-space: normal; word-wrap: normal; ">
+          
+          
+          
+          工具信息          <br/>
+
+
+
+ - 天气查询，参数：地点          <br/>
+
+
+
+- 时间查询，参数：无
+         </div>
+        </div>
+       </div>
+      </foreignObject>
+      <text x="484" y="286" fill="#252525" font-family="PingFangSC-Regular" font-size="16px" text-anchor="middle">
+       
+       
+       
+       [Not supported by viewer]
+      </text>
+     </switch>
+    </g>
+    <path d="M 1017 501 L 1037 441 L 1227 441 L 1207 501 Z" fill="#ebf0ff" stroke="#000000" stroke-miterlimit="10" pointer-events="none">
+    </path>
+    <g>
+     <switch>
+      <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+       <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 208px; height: 1px; padding-top: 471px; margin-left: 1018px;">
+        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+         <div style="display: inline-block; font-size: 14px; font-family: PingFangSC-Regular; color: #252525; line-height: 1.2; pointer-events: none; white-space: normal; word-wrap: normal; ">
+          
+          
+          
+          输出工具名称          <br/>
+
+
+
+解析工具入参
+         </div>
+        </div>
+       </div>
+      </foreignObject>
+      <text x="1122" y="475" fill="#252525" font-family="PingFangSC-Regular" font-size="14px" text-anchor="middle">
+       
+       
+       
+       [Not supported by viewer]
+      </text>
+     </switch>
+    </g>
+   </g>
+  </svg>
